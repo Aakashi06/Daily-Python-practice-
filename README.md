@@ -1,10 +1,3 @@
 # Daily-Python-practice
 
-Python fundamentals
-
-
-
-
-
-
-
+Python
