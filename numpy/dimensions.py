@@ -13,3 +13,22 @@ print("Three Dimensional Array:",a3)
 print(a1.ndim)
 print(a2.ndim)
 print(a3.ndim)
+
+
+
+print("Parameters of a1:")
+print(a1.shape)
+print(a1.size)
+print(a1.dtype)
+
+
+print("Parameters of a2:")
+print(a2.shape)
+print(a2.size)
+print(a2.dtype)
+
+
+print("Parameters of a3:")
+print(a3.shape)
+print(a3.size)
+print(a3.dtype)
