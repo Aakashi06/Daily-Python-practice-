@@ -1,28 +1,3 @@
 # Daily-Python-practice
 
 Python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
