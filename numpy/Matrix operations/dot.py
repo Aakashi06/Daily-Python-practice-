@@ -6,3 +6,5 @@ B = np.array([[5,6],
               [7,8]])
 
 print(A.dot(B))
+
+print(A@B) 
