@@ -1,9 +1,1 @@
 # Daily-Python-practice
-
-
-
-
-
-
-
-
